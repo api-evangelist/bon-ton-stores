@@ -1,7 +1,11 @@
 aid: bon-ton-stores
-url: https://raw.githubusercontent.com/api-evangelist/bon-ton-stores/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/bon-ton-stores/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.bon-ton-stores.com
+description: >-
+  The Bon-Ton Stores was a regional department store chain in the United States selling
+  apparel, accessories, cosmetics, home furnishings, and other merchandise.
