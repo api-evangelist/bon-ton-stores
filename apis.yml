@@ -8,6 +8,17 @@ description: >-
   Store, Carson's, Elder-Beerman, Herberger's, and Younkers. The company filed for
   bankruptcy and ceased operations in 2018.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
