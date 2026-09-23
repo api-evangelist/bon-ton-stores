@@ -1,7 +1,9 @@
 ---
 title: Bon-Ton closing all stores – Wilkes-Barre ...
 url: https://www.citizensvoice.com/2018/04/17/bon-ton-closing-all-stores/
-date: '2026-05-25'
+published: '2018-04-17'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Bon-Ton Stores" press release artificial intelligence'
 position: 4
 source: serpapi-google

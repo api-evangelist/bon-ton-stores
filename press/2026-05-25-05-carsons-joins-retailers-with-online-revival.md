@@ -1,7 +1,9 @@
 ---
 title: Carson's Joins Retailers With Online Revival
 url: https://www.aarete.com/insights/carsons-joins-retailers-seeking-life-after-liquidation-with-online-revival-and-bricks-and-mortar-aspirations/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Bon-Ton Stores" press release artificial intelligence'
 position: 5
 source: serpapi-google
